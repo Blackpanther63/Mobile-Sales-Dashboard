@@ -163,20 +163,88 @@ Fact_Mobile_Sales[Date]
 
 ## 📷 Dashboard Preview
 
-### Executive Dashboard
+---
+
+## 1. Executive Dashboard
 
 <img src="Dashboard%20Preview.jpg" width="1000">
 
+### Purpose
+
+The Executive Dashboard provides a comprehensive overview of organizational sales performance, enabling stakeholders to monitor critical KPIs and business trends.
+
+### Key Visuals
+
+- KPI Cards (Total Sales, Quantity Sold, Transactions, Average Price)
+- Sales by City Map
+- Monthly Quantity Trend
+- Customer Rating Analysis
+- Payment Method Distribution
+- Brand Performance Matrix
+- Top Selling Mobile Models
+
+### Key Insights
+
+- Apple emerged as the highest revenue-generating brand.
+- Metropolitan cities contributed significantly to total sales.
+- Customers predominantly preferred digital payment methods.
+- Customer satisfaction remained largely positive across transactions.
+
+### Business Value
+
+Provides executives with a centralized analytical view for strategic decision-making and business performance monitoring.
+
 ---
 
-### Month-To-Date (MTD) Dashboard
+## 2. Month-To-Date (MTD) Dashboard
 
 <img src="MTD%20Report.jpg" width="1000">
 
+### Purpose
+
+The MTD dashboard tracks cumulative sales performance within a selected month and helps monitor short-term business performance.
+
+### Key Visuals
+
+- Daily Cumulative Sales Trend
+- Dynamic Month and Year Filters
+- MTD Sales Analysis
+
+### Key Insights
+
+- Sales demonstrated a steady upward trend throughout the month.
+- Month-end cumulative sales reached approximately 23 million.
+- The selected period exhibited stable sales growth with no major fluctuations.
+
+### Business Value
+
+Enables business users to track monthly targets and proactively identify performance deviations.
+
 ---
 
-### Same Period Last Year Dashboard
+## 3. Same Period Last Year Dashboard
 
 <img src="Same%20Period%20Last%20Year%20report.jpg" width="1000">
+
+### Purpose
+
+The Same Period Last Year dashboard compares current sales performance with the corresponding period from the previous year to evaluate business growth.
+
+### Key Visuals
+
+- Year-over-Year Comparison
+- Quarterly Sales Comparison
+- Monthly Sales Comparison
+- Historical Trend Analysis
+
+### Key Insights
+
+- Current year sales were marginally lower than previous year's sales.
+- Quarterly performance remained relatively stable.
+- Historical comparisons highlighted months requiring additional business investigation.
+
+### Business Value
+
+Supports strategic planning by enabling stakeholders to evaluate historical performance trends and measure business growth.
 
 ---
