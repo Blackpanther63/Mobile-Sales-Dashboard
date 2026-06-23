@@ -137,7 +137,6 @@ The following analyses were performed:
 - Day-wise Sales Analysis
 
 ---
-
 ## 🏗️ Data Modeling
 
 A dimensional modeling approach was implemented.
@@ -158,14 +157,26 @@ Dim_Calendar[Date]
          │ 1 : *
          │
 Fact_Mobile_Sales[Date]
+```
 
-<h2>📷 Dashboard Preview</h2>
+---
 
-<h3>Executive Dashboard</h3>
+## 📷 Dashboard Preview
+
+### Executive Dashboard
+
 <img src="Dashboard%20Preview.jpg" width="1000">
 
-<h3>Month-To-Date (MTD) Dashboard</h3>
+---
+
+### Month-To-Date (MTD) Dashboard
+
 <img src="MTD%20Report.jpg" width="1000">
 
-<h3>Same Period Last Year Dashboard</h3>
+---
+
+### Same Period Last Year Dashboard
+
 <img src="Same%20Period%20Last%20Year%20report.jpg" width="1000">
+
+---
